@@ -1,0 +1,12 @@
+{
+    "name": "Ex01_DashboardRelay",
+    "description": "A simple example of a dashboard able to control 2 relays.",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
